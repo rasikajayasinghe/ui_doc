@@ -16,7 +16,7 @@ export default class Sidebar extends Component {
       <div className="sidebar">
         <div className="sidebar-header">
           <Link to="/" className="sidebar-logo">
-          RJ CUSTOM UI
+          CUSTOM UI
           </Link>
         </div>
         <PerfectScrollbar
